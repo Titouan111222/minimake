@@ -1,0 +1,9 @@
+*.a
+*.lib
+*.o
+*.obj
+*.out
+minimake/tests
+.idea/
+*~
+*.DotSettings.user
